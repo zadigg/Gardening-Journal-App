@@ -21,3 +21,9 @@ git clone [https://github.com/zadigg/Gardening-Journal-App.git](https://github.c
 
 ## Implementation
 This app is a showcase of advanced Android development techniques. The implementation of ViewModel and LiveData ensures that UI-related data is managed effectively, surviving configuration changes and keeping the user interface responsive and current. The Room database integration demonstrates a solid grasp of Android's storage capabilities, providing a robust and efficient way to handle data. Coroutines are extensively used for handling asynchronous tasks, crucial for maintaining a smooth user experience. Each screen, from the Garden Log to the detailed Plant Details, is thoughtfully designed to offer functionality and ease of use, making it a perfect tool for any gardening enthusiast.
+![image](https://github.com/zadigg/Gardening-Journal-App/assets/62830716/8942ab9b-c324-4967-8cd5-f0b64e2b0b0b)
+
+![image](https://github.com/zadigg/Gardening-Journal-App/assets/62830716/b08bb4ad-6d1b-478f-9cff-1bba9e7c9085)
+
+![image](https://github.com/zadigg/Gardening-Journal-App/assets/62830716/7183601e-ca6c-4643-89b1-3843d4db179d)
+
