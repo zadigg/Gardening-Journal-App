@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/plant_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/min_height"
+        android:fontFamily="cursive"
+    android:hint="Plant name"
+    android:inputType="textAutoComplete"
+    android:layout_margin="@dimen/big_padding"
+    android:textSize="18sp"
+        android:paddingLeft="30dp"
+
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/plant_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/min_height"
+        android:fontFamily="cursive"
+    android:hint="Plant Type"
+    android:inputType="textAutoComplete"
+    android:layout_margin="@dimen/big_padding"
+    android:textSize="18sp"
+        android:paddingLeft="30dp"
+
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/watering_frequency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/min_height"
+        android:fontFamily="cursive"
+    android:hint="Watering Frequency"
+    android:inputType="textAutoComplete"
+    android:layout_margin="@dimen/big_padding"
+    android:textSize="18sp"
+        android:paddingLeft="30dp"
+
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/planting_date"
+        android:paddingLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/min_height"
+        android:fontFamily="cursive"
+    android:hint="Plant Date"
+    android:inputType="textAutoComplete"
+    android:layout_margin="@dimen/big_padding"
+    android:textSize="18sp"
+    android:background="@drawable/rounded_edittext_background" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background"
+    android:text="Save"
+    android:layout_margin="@dimen/big_padding"
+    android:textColor="@color/purple_200"
+    android:fontFamily="sans-serif-medium" />
+
+</LinearLayout>

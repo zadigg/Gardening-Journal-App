@@ -1,0 +1,42 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/gardenNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Garden Name"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/gardenTypeTextView"
+        android:layout_below="@id/gardenNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Type: "
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/wateringFrequencyTextView"
+        android:layout_below="@id/gardenTypeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Watering Frequency: "
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/plantingDateTextView"
+        android:layout_below="@id/wateringFrequencyTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Planting Date: "
+        android:textSize="16sp"/>
+
+</RelativeLayout>
