@@ -1,4 +1,4 @@
-# Gardening Journal App
+# Gardening Journal App.
 
 ## Description
 The Gardening Journal App is a robust and user-friendly mobile application developed using Android Kotlin. It's designed to assist gardening enthusiasts in tracking and managing their gardens efficiently. The app features a sleek navigation structure with three main screens: Home, Garden Log, and Plant Details. It incorporates advanced concepts like ViewModel, LiveData, Navigation component, NavHostFragment, Room database, and coroutines to provide a seamless and responsive user experience.
