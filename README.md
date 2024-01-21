@@ -13,7 +13,7 @@ The Gardening Journal App is a robust and user-friendly mobile application devel
 
 ## Installation Instructions
 1. Clone the repository:
-git clone https://github.com/zadigg/Gardening-Journal-App.git
+git clone [https://github.com/zadigg/Gardening-Journal-App.git](https://github.com/zadigg/Gardening-Journal-App.git)
 
 2. Open Android Studio and navigate to 'Open an existing project'.
 3. Select the cloned project folder and wait for Gradle to build the project.
